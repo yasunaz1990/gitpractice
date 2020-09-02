@@ -2,3 +2,5 @@
 2. Learn api testing 
 3. Learn how to fly
 4. Laarn how to game
+5. Learn how to use Intellij
+6. Learn how to use gitbash
