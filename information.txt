@@ -4,3 +4,5 @@ things to learn
 5. REST Assured
 7. SQL 
 8. Docker
+10. gitlab
+11. sitespeed.js
