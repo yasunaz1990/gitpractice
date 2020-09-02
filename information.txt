@@ -1,6 +1,6 @@
 things to learn
 1. Git 
 2. GitHub
-3. Postman
-4. Java
 5. REST Assured
+7. SQL 
+8. Docker
